@@ -1,0 +1,12 @@
+C:\Dev\peak\Peak.Domain\bin\Debug\net6.0\Peak.Domain.deps.json
+C:\Dev\peak\Peak.Domain\bin\Debug\net6.0\Peak.Domain.dll
+C:\Dev\peak\Peak.Domain\bin\Debug\net6.0\Peak.Domain.pdb
+C:\Dev\peak\Peak.Domain\obj\Debug\net6.0\Peak.Domain.csproj.AssemblyReference.cache
+C:\Dev\peak\Peak.Domain\obj\Debug\net6.0\Peak.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\peak\Peak.Domain\obj\Debug\net6.0\Peak.Domain.AssemblyInfoInputs.cache
+C:\Dev\peak\Peak.Domain\obj\Debug\net6.0\Peak.Domain.AssemblyInfo.cs
+C:\Dev\peak\Peak.Domain\obj\Debug\net6.0\Peak.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\peak\Peak.Domain\obj\Debug\net6.0\Peak.Domain.dll
+C:\Dev\peak\Peak.Domain\obj\Debug\net6.0\refint\Peak.Domain.dll
+C:\Dev\peak\Peak.Domain\obj\Debug\net6.0\Peak.Domain.pdb
+C:\Dev\peak\Peak.Domain\obj\Debug\net6.0\ref\Peak.Domain.dll
